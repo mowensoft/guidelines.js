@@ -3,7 +3,7 @@
 var required = [
 	"Verify project runs",
 	"Verify unit tests pass if available"
-]
+];
 
 var suggestted = [
 	"Minimal inline javascript",
@@ -21,8 +21,8 @@ var suggestted = [
 	"When using comments make them useful, (DRY), and use JSDoc for methods",
 	"Consistent indentation",
 	"Braces should go on same line",
-]
+];
 
 var future = [
 	"Run through linter"
-]
+];
